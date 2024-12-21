@@ -1,0 +1,13 @@
+---
+jupyter: python3
+---
+
+```{python}
+print('test')
+```
+
+$$
+a_\pi = b_1
+$$
+
+$e = mc^2$ は　エネルギー保存則です
